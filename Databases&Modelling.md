@@ -15,18 +15,23 @@ A Database is a collection of structured data used for efficeint access
 **Primary Keys**
 - A primary key is a field used to uniquely identify every record in the database e.g. ID
 
+- Must Be Unique
+- Cant change
+- Each table must have one
+
 **Foreign Key**
 - A foreign key is a primary key from one table that appears in another table to link the two together
+
+- Used to create a relation
+- A table can have nay number of foreign keys
 
 ![](./images/PrimaryForeignKey.png)
 
 ## Data Modelling
 
 ### What is Data Modelling
-- Data modelling is the process of creating a visual representation of data structres and relationships within a system
-
-**Data Model**
-- Data models are abstract representations that define how data is structured, organised, and related within a system.
+- Data modelling detail how a database will be organised and relate to each other
+- ERD is a type of data model
 
 ![](./images/DataModel.png)
 
@@ -40,7 +45,10 @@ A Database is a collection of structured data used for efficeint access
 ![](./images/CrowsFoot.png)
 
 ## Normalisation and Forms 1NF, 2NF, 3NF (Normal Form)
-- Normalisation is a database design principle for oragnising to data in a way which is consistent
+
+Normalisation is a database design principle for oragnising to data in a way which is consistent
+- Reduces redundacy and errors
+- Can be very complex and timely
 
 ##3 Types of Normalisation**
 
