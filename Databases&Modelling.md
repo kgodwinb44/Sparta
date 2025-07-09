@@ -1,5 +1,7 @@
 # Databases
 
+A database is a strcutured collection of data used for efficient access.
+
 ### Typea of Databases
 - Hierarchical Databases
 - Relational Databases
