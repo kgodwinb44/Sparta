@@ -1,10 +1,14 @@
 # Databases
 
+A Database is a collection of structured data used for efficeint access
+
 ### Typea of Databases
 - Hierarchical Databases
 - Relational Databases
 - Graph Databases
 - Centralised Databases
+
+![](./images/TypeOfDatabase.png)
 
 ### Primary and Foreign Keys
 
