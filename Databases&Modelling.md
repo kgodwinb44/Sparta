@@ -8,6 +8,8 @@ A database is a strcutured collection of data used for efficient access.
 - Graph Databases
 - Centralised Databases
 
+![](./images/TypeOfDatabases.png)
+
 ### Primary and Foreign Keys
 
 **Primary Keys**
