@@ -11,7 +11,8 @@
 - **Redundacny** Information of the same observation is held within the same data e.g. duplicates, multiple input
 
 ## Data Cleaning
-- Organising and sorting data to achieve good data quality
+
+Organising and sorting data to achieve good data quality
 
 - **Irrelevant Data** Data that is not needed or doesnt fit under the context of the problem
 - **Duplicates** Data points that are repeated
