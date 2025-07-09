@@ -36,7 +36,8 @@ A set of principles that guarantee the reliability and integrity of database tra
 
 ## Data Warehouse
 
-A system that integrates and centralizes data from multiple sources for the purpose of reporting, analysis, and business intelligence
+A Data Warehouse is a system that stores structured data that has been cleaned and processed for specific analytical and reporting purposes
+
 - Designed for data analysis
 - Only stores critical data
 - Slices of the warehouse stored as Data Marts e.g. Mart Finance, Mart Sales, Mart Personal
@@ -72,6 +73,8 @@ A system that integrates and centralizes data from multiple sources for the purp
 ---
 
 ## Data Lakes
+
+A data lake is a repositry that stores large amounts of raw data in its natural format (unstrcutred)
 
 - Newer, made possible with Big Data technology
 - Stores structured and unstructred data in original form
